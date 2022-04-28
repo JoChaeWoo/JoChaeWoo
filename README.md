@@ -6,7 +6,7 @@ Web Front-end 개발자 지망생이에요
 
 * 🌍  I'm based in Seoul
 * 🖥️  See my portfolio at [my velog](http://https://velog.io/@jo_cw)
-* 🧠  I'm learning Front-edn Engineering
+* 🧠  I'm learning Front-end Engineering
 
 ### Skills
 
